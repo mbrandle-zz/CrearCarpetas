@@ -1,0 +1,7 @@
+c:\users\mbrandle\documents\visual studio 2010\Projects\CrearCarpetas\CrearCarpetas\bin\Debug\CrearCarpetas.exe
+c:\users\mbrandle\documents\visual studio 2010\Projects\CrearCarpetas\CrearCarpetas\bin\Debug\CrearCarpetas.pdb
+c:\users\mbrandle\documents\visual studio 2010\Projects\CrearCarpetas\CrearCarpetas\obj\x86\Debug\CrearCarpetas.Form1.resources
+c:\users\mbrandle\documents\visual studio 2010\Projects\CrearCarpetas\CrearCarpetas\obj\x86\Debug\CrearCarpetas.Properties.Resources.resources
+c:\users\mbrandle\documents\visual studio 2010\Projects\CrearCarpetas\CrearCarpetas\obj\x86\Debug\CrearCarpetas.csproj.GenerateResource.Cache
+c:\users\mbrandle\documents\visual studio 2010\Projects\CrearCarpetas\CrearCarpetas\obj\x86\Debug\CrearCarpetas.exe
+c:\users\mbrandle\documents\visual studio 2010\Projects\CrearCarpetas\CrearCarpetas\obj\x86\Debug\CrearCarpetas.pdb
